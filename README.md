@@ -3,9 +3,7 @@
 
 This repository contains all the essential work completed from Day 24 to Day 27 of the Power BI learning program. The focus is on data modeling, DAX calculations, Power BI visuals, paginated reports, and integrating SQL Server with Power BI.
 
----
-
-📅 Day 24 – Power BI DAX Techniques & Date-Time Functions
+Day 24 – Power BI DAX Techniques & Date-Time Functions
 
 ✅ Tasks Completed:
 - Created and loaded data model using `Sales.xlsx` data.
@@ -23,15 +21,13 @@ This repository contains all the essential work completed from Day 24 to Day 27 
   - DATEDIFF()
   - TOTALYTD()
 
-📊 Visuals Included:
+Visuals Included:
 - Time-based trend charts
 - KPI cards
 - Tables and bar charts
 - Slicers for Year and Category
 
----
-
-📅 Day 25 – Advanced Reporting with Geo & Date-Time Context
+ Day 25 – Advanced Reporting with Geo & Date-Time Context
 
 ✅ Tasks Completed:
 - Worked on same Sales.xlsx data
@@ -43,7 +39,7 @@ This repository contains all the essential work completed from Day 24 to Day 27 
   - `YTD Sales`
   - `Revenue for Selected Location and Date`
 
-📊 Visuals Included:
+Visuals Included:
 - Line chart for revenue trends
 - Map/area visual (optional)
 - Multi-category bar charts (e.g., Geo[State] vs Revenue)
@@ -51,9 +47,9 @@ This repository contains all the essential work completed from Day 24 to Day 27 
 
 ---
 
-📅 Day 26 – Power BI Licensing Research
+Day 26 – Power BI Licensing Research
 
-📖 Documented:
+ Documented:
 - Types of Power BI Licenses:
   - Power BI Free
   - Power BI Pro
@@ -69,13 +65,13 @@ This repository contains all the essential work completed from Day 24 to Day 27 
   - Paginated reports
   - Dedicated cloud resources
 
-📄 Included:
+ Included:
 - Human-readable explanation of licensing
 - Tables comparing features between Pro and Premium
 
 ---
 
-📅 Day 27 – SQL Server Integration & Paginated Reports
+ Day 27 – SQL Server Integration & Paginated Reports
 
 ✅ Tasks Completed:
 - Installed and connected to SQL Server locally
@@ -83,7 +79,7 @@ This repository contains all the essential work completed from Day 24 to Day 27 
 - Imported Excel file `CustomerSurveyData.xlsx` using SQL Server Import Wizard
 - Connected this database in Power BI Report Builder (Paginated Reports)
 
-💡 Report Features:
+ Report Features:
 - Used SQL Server as a data source
 - Created calculated field:
   - `New Product Price = Product Price * 5`
@@ -98,7 +94,7 @@ This repository contains all the essential work completed from Day 24 to Day 27 
   - `Year` (dropdown)
 - Enabled filters based on parameter inputs
 
-🚀 Tools & Technologies Used
+ Tools & Technologies Used
 
 - Power BI Desktop
 - Power BI Report Builder
@@ -107,7 +103,7 @@ This repository contains all the essential work completed from Day 24 to Day 27 
 - Excel
 - GitHub
 
-🔗 Author
+ Author
 
 Name: Satyam (SQL & Power BI Learner)  
 Project: Survey Data Analysis & Reporting  
